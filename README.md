@@ -133,41 +133,7 @@ A platform designed to connect farmers directly with buyers and help reduce depe
 
 ---
 
-## 🤖 AI-Powered Resume Screening & Skill Recommendation System
 
-An AI-based system designed to analyze resumes, identify relevant skills, and provide skill recommendations using Natural Language Processing and Machine Learning.
-
-**Tech Stack:**
-
-`Python` `Flask` `NLP` `Machine Learning` `SQLite`
-
----
-
-# 📈 My Data Analytics Journey
-
-```text
-Excel
-  ↓
-SQL
-  ↓
-Statistics
-  ↓
-Power BI
-  ↓
-Python
-  ↓
-Pandas & NumPy
-  ↓
-Data Cleaning
-  ↓
-Data Visualization
-  ↓
-Real-World Projects
-```
-
-Alongside Data Analytics, I am continuously improving my **Software Development and AI/ML skills**.
-
----
 
 # 🎯 Career Goals
 
